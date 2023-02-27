@@ -7,7 +7,8 @@ Full Stack Developer | ML enthusiast
 *   🌍  I'm based in Bangalore
 *   ✉️  You can contact me at [msvsurya1@gmail.com](mailto:msvsurya1@gmail.com)
 *   🧠  I'm learning Deep Learning
-*   🤝  I'm open to collaborating on Any MERN stack projects### Skills 
+*   🤝  I'm open to collaborating on Any MERN stack projects
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -26,12 +27,9 @@ Full Stack Developer | ML enthusiast
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/vaishnav#7447" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+### Socials
+<p align="left">
+ <a href="https://discord.com/users/vaishnav#7447" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.github.com/vaishnav319" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
